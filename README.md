@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Julian, a programmer from Germany who enjoys coding and creating projects.
+<h2 align="left">Hi! I'm Julian, a programmer from Germany who enjoys coding and creating litle projects.
 
 ###
 
