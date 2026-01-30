@@ -4,7 +4,7 @@
 3.	I experiment with Minecraft modding as a long-term side project.<br>
 4.	I frequently debug issues I introduced the day before.<br>
 5.	I automate repetitive tasks whenever possible.<br>
-6.	I maintain more projects than I realistically have time for.
+6.	I maintain more private projects than I realistically have time for.
 
 
 # 💻 Tech Stack:
